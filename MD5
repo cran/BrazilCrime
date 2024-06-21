@@ -1,10 +1,10 @@
-f1311c2f941a25d748d559ce552faae2 *DESCRIPTION
+8ec9f6d45d8fb87b9bf3d17c0c472c4f *DESCRIPTION
 e047cbed644481b187d63f0127d42ecb *LICENSE
 e18909970ba02f6cfbba3885b16acb1b *NAMESPACE
-2341082e73478c1961131a4b9a814442 *R/get_sinesp_data.R
-93f51b8db946ab20fe7247d50a26b3e7 *R/get_sinesp_vde_data.R
+0185ceb56a38ca425b1abbe837e66dd1 *R/get_sinesp_data.R
+38d02b223cfe5e90bef7f08ba994bfcb *R/get_sinesp_vde_data.R
 7cd636527ea23bb50277b3b2a962ea0e *R/sysdata.rda
-18296b014f3aa51eccb709d2ab5cdb81 *README.md
+a59feb3b3c9ad65e161d159ea8106e2e *README.md
 04bf2267a52f34fb75780b4d295d4894 *inst/extdata/ufs.csv
 79884579635727918ef8c2d41575edf1 *man/figures/figure.png
 26fe9b0b53e1901e59e3c33ca7f1b635 *man/get_sinesp_data.Rd

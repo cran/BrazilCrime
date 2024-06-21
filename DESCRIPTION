@@ -1,6 +1,6 @@
 Package: BrazilCrime
 Title: Accesses Brazilian Public Security Data from SINESP Since 2015
-Version: 0.1
+Version: 0.2
 Authors@R: 
     c(
     person("Giovanni", "Vargette", , "g216978@dac.unicamp.br", role = c("aut"),
@@ -19,9 +19,9 @@ Depends: R (>= 2.10)
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-06-18 18:22:34 UTC; laltuf
+Packaged: 2024-06-21 01:09:42 UTC; laltuf
 Author: Giovanni Vargette [aut] (<https://orcid.org/0009-0006-8164-5274>),
   Igor Laltuf [aut, cre] (<https://orcid.org/0000-0002-5614-4404>),
   Marcelo Justus [aut] (<https://orcid.org/0000-0001-8660-1779>)
 Repository: CRAN
-Date/Publication: 2024-06-20 16:00:16 UTC
+Date/Publication: 2024-06-21 13:40:13 UTC
